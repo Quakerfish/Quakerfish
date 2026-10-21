@@ -6,7 +6,7 @@ A 2nd-year IT student at **Southwestern University** passionate about exploring 
 - 📱 Exploring and Building IT Projects that expand my understanding of ReactJS and Kotlin.
 - 🌐 Familiar with Networking Basics and Essential Concepts.
 - 💻 Currently studying the MERN stack to prepare for my upcoming Web Development class.
-- 🛡️ Have concrete plans to pursue Cybersecurity in the near future.
+- 🛡️ Planning to pursue Cybersecurity or Software Development in the near future.
 
 # Tech Stack
 ### Languages
